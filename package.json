@@ -1,0 +1,23 @@
+{
+  "name": "netfunctions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HomeDigSoftware/NetFunctions.git"
+  },
+  "author": "tzaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HomeDigSoftware/NetFunctions/issues"
+  },
+  "homepage": "https://github.com/HomeDigSoftware/NetFunctions#readme",
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
